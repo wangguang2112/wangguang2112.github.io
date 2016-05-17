@@ -1,0 +1,14 @@
+<activity plantform="ios">
+     <tools>
+         <element>
+             <title>社保查询</title>
+             <pic>http://bangbang.58.com/mobile/static/beans/ios/tanchuang.png</pic>
+             <url>http://shebao.58.com/bj/loginIndex</url>
+     </element>
+     <element>
+         <title>社保计算器</title>
+            <pic>http://bangbang.58.com/mobile/static/pic/fxlhfbanner.jpg</pic>
+            <url>http://shebao.58.com/smallCalculator/index</url>
+     </element>
+     </tools>
+</activity>
