@@ -1,0 +1,28 @@
+<activity plantform="ios">
+<operate>
+    <element>
+        <title>交友秘籍</title>
+        <subtitle>轻松得到心仪对象</subtitle>
+        <imageurl>http://wangguang2112.github.io/images.jpg</imageurl>
+        <url></url>
+    </element>
+    <element>
+        <title>求职攻略</title>
+        <subtitle>轻松找到好工作</subtitle>
+        <imageurl>http://wangguang2112.github.io/images.jpg</imageurl>
+        <url></url>
+    </element>
+    <element>
+        <title>分享给好友</title>
+        <subtitle>好东西要大家一起用</subtitle>
+        <imageurl>http://wangguang2112.github.io/images.jpg</imageurl>
+        <url></url>
+    </element>
+    <element>
+        <title>送花脱单</title>
+        <subtitle>送花就送红玫瑰</subtitle>
+        <imageurl>http://wangguang2112.github.io/images.jpg</imageurl>
+        <url></url>
+   </element>
+</operate>
+</activity>
